@@ -745,6 +745,10 @@ ul li{
     border-radius: 20px;
     padding: 30px;
 }
+.via:hover{
+    background-color: rgb(33, 33, 33);
+    cursor: pointer;
+}
 .connecting{
     display: flex;
     flex-direction: column;
